@@ -1,6 +1,7 @@
 # hello! 👋
+i'm czctus (pronounced "c-z-c-tus")! i've been programming since 2019.
 
-Hello! I'm czctus (pronounced "C-Z-C-tus")! I've been programming since 2019.
+<!--
 ```js
 process.stdout.write("And I love programming!"); // mostly
 ```
@@ -29,3 +30,4 @@ Here are some I'm currently learning!
 > 🌎 I was born in Norwich, Connecticut, but now live elsewhere in the state.
 >
 > 🎧 I love the music of Healy; their songs have helped me significantly through tough times.
+-->
