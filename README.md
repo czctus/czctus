@@ -1,5 +1,17 @@
 # hello! 👋
-i'm czctus (pronounced "c-z-c-tus")! i've been programming since 2019.
+i'm czctus (pronounced "c-z-c-tus")! i've been programming since 2020.
+i use a few programming languages:
+## javascript (node.js specifically)
+experience: 2 years (mid-level developer)
+i've worked on several api's, discord bots, and various misc projects.
+
+## lua/luau 
+experience: 5 years (senior developer)
+i am highly familiar with the language, working on several modules and games.
+
+## csharp
+experience: 1 year (mid-level developer)
+i don't really do much with this language, only working with .NET, however its a language i could work with if i need to.
 
 <!--
 ```js
