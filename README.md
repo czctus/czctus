@@ -4,10 +4,12 @@ i use a few programming languages:
 ### javascript (node.js specifically)
 experience: 2 years (mid-level developer)
 i've worked on several api's, discord bots, and various misc projects.
+i use typescript in most of my recent projects, but im still not great at it.
 
 ### lua/luau 
 experience: 5 years (senior developer)
 i am highly familiar with the language, working on several modules and games.
+i have made myself extremely familiar with the type system.
 
 ### csharp
 experience: 1 year (mid-level developer)
