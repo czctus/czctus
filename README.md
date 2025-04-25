@@ -1,5 +1,7 @@
 # hello! 👋
-i'm czctus (pronounced "c-z-c-tus")! i've been programming since 2020.
+i'm czctus! i've been programming since 2020.
+typically i don't upload public projects, but the ones i do will be visible here.
+
 i use a few programming languages:
 ### javascript (node.js specifically)
 experience: 2 years (mid-level developer)
