@@ -1,1 +1,2 @@
-hi im czctus i do dev stuff once every year 
+hi im czctus i do dev stuff
+founder of perox softworks and co founder of @egwmiadg
