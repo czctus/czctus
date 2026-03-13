@@ -1,3 +1,3 @@
-hi im czctus i do dev stuff
+hi im czctus i do dev stuff and i am the founder of perox softworks
 
-founder of perox softworks and co founder of [@egwmiadg](https://github.com/egwmiadg)
+i program in typescript/javascript, c++, lua(u), and c#
