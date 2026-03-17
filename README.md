@@ -1,5 +1,7 @@
-hi im czctus i do dev stuff and i am the founder of perox softworks
+hi, im czctus, founder of `perox softworks` & co founder of [@egwmiadg](https://github.com/egwmiadg/)
 
-i program in typescript/javascript, lua(u), and c#
+---
 
-learning swift, c++, and kotlin
+programmer of 6 years with experience in `typescript/javascript`, `lua(u)`, and `c#`
+
+currently learning `swift`, `c++`, and `kotlin`.
