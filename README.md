@@ -8,7 +8,7 @@ hi, im czctus, founder of `perox softworks` & co founder of [@egwmiadg](https://
 
 programmer of 6 years with experience in `typescript/javascript`, `lua(u)`, and `c#`
 
-currently learning `swift`, `c++`, `verilog`, and `kotlin`.
+currently learning `swift`, `c++`, and `verilog`.
 
 ---
 
